@@ -2,7 +2,7 @@
 
 Frontend developer
 
-![CV image](./CVimg.jpg "CVimg")
+![CV image](./img/CVimg.jpg "CVimg")
 
 ---
 
